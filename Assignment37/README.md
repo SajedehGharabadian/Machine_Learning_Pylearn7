@@ -1,4 +1,8 @@
- Assignment11
- 
-![draw diamond](https://user-images.githubusercontent.com/76538787/149660244-528e8bac-7807-46a9-87b6-70e063ffc8cf.JPG)
-![snake_game](https://user-images.githubusercontent.com/76538787/149660256-a21ae9a1-290d-4c5c-9bc8-c5fea0335287.png)
+ **Assignment26 part2**
+
+⚪ Seprate Numbers
+
+![image](https://user-images.githubusercontent.com/76538787/161601006-6547b497-1561-4530-ac1e-a078427e41e6.png)
+
+![image](https://user-images.githubusercontent.com/76538787/161601058-e16ae55a-799b-4953-89ed-864d7a2e23ec.png)
+
