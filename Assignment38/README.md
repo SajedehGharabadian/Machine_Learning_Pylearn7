@@ -1,8 +1,6 @@
  **Assignment37**
 
-⚪ Seprate Numbers
+⚪ Drawing a 3D scatter that contains mellons and ballons detail width,hieght and weight
 
-![image](https://user-images.githubusercontent.com/76538787/161601006-6547b497-1561-4530-ac1e-a078427e41e6.png)
-
-![image](https://user-images.githubusercontent.com/76538787/161601058-e16ae55a-799b-4953-89ed-864d7a2e23ec.png)
+![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/ddf15881-3591-412f-a00c-1c69ec22b5c8)
 
