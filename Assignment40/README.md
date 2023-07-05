@@ -1,12 +1,12 @@
  **Assignment40**
 
 ⚪Billionairs:
-ذخیره کردن ترجمه
+
 The total Networth of each country
 
 ![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/87991db0-731c-4cfd-a2f9-31ad131b20db)
 
-ذخیره کردن ترجمه
+
 The top ten richest people in United States with their Networth
 
 ![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/3bca3d57-99d8-42f5-b610-ab4bd23ce519)
