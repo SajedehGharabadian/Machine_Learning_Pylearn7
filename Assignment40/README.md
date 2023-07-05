@@ -1,26 +1,33 @@
- **Assignment39**
+ **Assignment40**
 
-⚪COVID:
+⚪Billionairs:
+ذخیره کردن ترجمه
+The total Networth of each country
 
-Eight countries with the highest number of covid new cases in the fourth month of 2020
+![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/87991db0-731c-4cfd-a2f9-31ad131b20db)
 
-![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/06075806-18e5-48e6-859d-d52a7f196905)
+ذخیره کردن ترجمه
+The top ten richest people in United States with their Networth
 
-
-Draw a graph that shows the mortality rate in relation to the number of cases in Iran on different month
-
-![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/505b6d4b-0cc1-4afc-92f6-e9dcb2e80f11)
+![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/3bca3d57-99d8-42f5-b610-ab4bd23ce519)
 
 
-⚪DIGIKALA:
+The ten countries with the lowest number of rich people
 
-DigiKala Number of orders per month:
+![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/9a780910-ed89-4f3a-ad3b-b8177f2c66f4)
 
-![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/4ccc4c8b-c0db-4b93-80fa-46241d5cfe2a)
 
-Separate customers by city:
+⚪Lional Messi:
 
-![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/5b2f023f-f08f-45ca-8ba3-43ed82d378de)
+Number of Goal per year
+![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/319553bb-6948-46a3-bfe9-e678947a6bd7)
 
+Most of the penalties are scored with the left foot or with the right foot
+
+![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/ed57df31-329f-426a-8aa2-ab835aa00140)
+
+percentage of games in which Messi has scored in extra time have ended in victory
+
+![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/e633fc82-2293-4523-8535-35d981ddeaf7)
 
 
