@@ -20,11 +20,14 @@ The ten countries with the lowest number of rich people
 ⚪Lional Messi:
 
 Number of Goal per year
+
 ![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/319553bb-6948-46a3-bfe9-e678947a6bd7)
+
 
 Most of the penalties are scored with the left foot or with the right foot
 
 ![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/ed57df31-329f-426a-8aa2-ab835aa00140)
+
 
 percentage of games in which Messi has scored in extra time have ended in victory
 
