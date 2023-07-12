@@ -10,8 +10,6 @@
 
 ⚪ Scores obtained by weight , stature and Gender features	
 
--------------------------------------------------------------------------------------------------------------
-
 
 ✅ Evaluate your KNN algorithm on the test dataset.
 
