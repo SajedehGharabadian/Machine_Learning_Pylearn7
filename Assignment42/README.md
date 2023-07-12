@@ -10,5 +10,5 @@
 ✅ Evaluate your KNN algorithm on the test dataset.
 
 | K            | 3 | 5 | 7 |
-| :---         |     :---:      |          ---: |
+| :---         |     :---:      |          ---:|
 | Score  | 80.39%     | 82.2%   |  82.53%   |
