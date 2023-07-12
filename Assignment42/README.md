@@ -1,10 +1,14 @@
- **Assignment41**
+ **Assignment42**
 
-⚪K nearest Neighbors:
+⚪K-Nearest Neighbors in ANSUR II dataset
 
-K=5
+✅ Show heights for women and men on same plot 
 
-![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/ddb630d7-33aa-4280-97d3-c3a50a92ba42)
+![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/434bee86-55ba-4455-ab93-223ee7d2dc4f)
 
 
+✅ Evaluate your KNN algorithm on the test dataset.
 
+| K            | 3 | 5 | 7 |
+| :---         |     :---:      |          ---: |
+| Score  | 80.39%     | 82.2%   |  82.53%   |
