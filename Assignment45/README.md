@@ -1,35 +1,54 @@
- **Assignment44**
+ **Assignment45**
 
-⚪ Boston house-prices 
+⚪ Tehran House Price
 
-Features:Room and Location-state  Targets:Prices
+Address of 5 Most Expensive House
 
-![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/78b22fd1-bdba-49bd-89ca-e3155f13d6b0)
+![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/e8d67e93-0ca0-42a3-a4b0-4ccae5a26bb0)
 
-LLS on the Boston dataset
+Features:Room,Area,Parking,Elevator,Warehouse
+Target: Price
 
-![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/06edf16b-88dd-48d3-8ff1-b9f3078d4ea1)
+Results of MY_LLS model and RidgeCV and LinearRegression for tehran house price:
 
-Correlation
+Mean Absolute Error
+
+![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/80320fc5-23e8-40cc-a85f-a3192b8b6172)
+
+Mean Square Error 
 
 ![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/fe61ca92-82aa-4b10-9a6e-0ac26dde421f)
 
+Root Mean Square Error
 
-⚪ Students Performance
+![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/05b98ee6-bce3-45d2-9fcb-bcb4a198d780)
 
- Creating random data for students' study hours and their grades
 
- ![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/b1046bd9-f0e7-4430-a25b-b6445003955e)
+⚪ Dollar & Rial Price
 
-Obtaining line slop by LLS and wrong line with random slop
+ Max and Min price of dollar in Ahmadinejad,Rouhani,Raeesi presidency
 
-![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/93ab3e89-5801-46dc-932e-b22c32baf2db)
+| Dollae-Rail  |     Min    |     Max    | 
+| :---         |     :---:  |      ---:  |
+| Ahmadinejad  |    13350   |   39700    |
+| :---         |     :---:  |      ---:  |
+| Rouhani      |    12850   |   320060   |
+| :---         |     :---:  |      ---:  |
+|Raeisi        |   251250   |   555600   |
 
-Draw a green line using linregress from scipy library
 
-![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/73445f27-c240-44d5-b7f0-91649329e05e)
+Mean Absolute Error in Ahmadinejad,Rouhani,Raeesi presidency
 
-All Lines
+|              |     MAE                |
+| :---         |     :---:              |
+| Ahmadinejad  |    7048.379089919374   |
+| :---         |     :---:              | 
+| Rouhani      |    64561.780882084444  |
+| :---         |     :---:              | 
+|Raeisi        |   81062.60643927503    |
 
-![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/c0b03aff-1207-4d0d-bb4f-de60ec26847c)
 
+
+
+ 
+ 
