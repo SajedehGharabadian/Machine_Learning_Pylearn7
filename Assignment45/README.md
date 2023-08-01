@@ -26,7 +26,7 @@ Root Mean Square Error
 
 ⚪ Dollar & Rial Price
 
- Max and Min price of dollar in Ahmadinejad,Rouhani,Raeesi presidency
+ Max and Min price of dollar in Ahmadinejad,Rouhani,Raeesi presidency.
 
 | Dollae-Rail  |     Min    |     Max    | 
 | :---         |     :---:  |      ---:  |
