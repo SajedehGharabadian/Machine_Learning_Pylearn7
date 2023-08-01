@@ -17,7 +17,7 @@ Mean Absolute Error
 
 Mean Square Error 
 
-![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/fe61ca92-82aa-4b10-9a6e-0ac26dde421f)
+![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/33795bff-d2e5-4dd7-89a5-1b1b91edf76b)
 
 Root Mean Square Error
 
@@ -40,11 +40,11 @@ Root Mean Square Error
 Mean Absolute Error in Ahmadinejad,Rouhani,Raeesi presidency
 
 |              |     MAE                |
-| :---         |     :---:              |
+| :--------:   |     :----------------: |
 | Ahmadinejad  |    7048.379089919374   |
-| :---         |     :---:              | 
+| :--------:   |     :----------------: | 
 | Rouhani      |    64561.780882084444  |
-| :---         |     :---:              | 
+| :--------:   |     :----------------: | 
 |Raeisi        |   81062.60643927503    |
 
 
