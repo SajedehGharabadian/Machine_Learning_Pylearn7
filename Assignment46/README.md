@@ -1,54 +1,25 @@
- **Assignment45**
+ **Assignment46**
 
-⚪ Tehran House Price
+⚪ Fit Perceptron on the employee's salary dataset
 
-Address of 5 Most Expensive House
+Dataset: Make a linear dataset using scikit-learn library 
 
-![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/e8d67e93-0ca0-42a3-a4b0-4ccae5a26bb0)
-
-Features:Room,Area,Parking,Elevator,Warehouse
-Target: Price
-
-Results of MY_LLS model and RidgeCV and LinearRegression for tehran house price:
-
-Mean Absolute Error
-
-![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/80320fc5-23e8-40cc-a85f-a3192b8b6172)
-
-Mean Square Error 
-
-![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/33795bff-d2e5-4dd7-89a5-1b1b91edf76b)
-
-Root Mean Square Error
-
-![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/05b98ee6-bce3-45d2-9fcb-bcb4a198d780)
+![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/579ae16b-5e7a-4ac5-b460-8b0b1b403506)
 
 
-⚪ Dollar & Rial Price
+⚪ Abalone
 
- Max and Min price of dollar in Ahmadinejad,Rouhani,Raeesi presidency.
+Fit  perceptron algorithm on the abalone dataset
 
-| Dollae-Rail  |     Min    |     Max    | 
-| :---         |     :---:  |      ---:  |
-| Ahmadinejad  |    13350   |   39700    |
-| :---         |     :---:  |      ---:  |
-| Rouhani      |    12850   |   320060   |
-| :---         |     :---:  |      ---:  |
-|Raeisi        |   251250   |   555600   |
+Feature:Length   Target: Diameter
 
+![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/e21ac4aa-9a10-468d-b242-6fb1fa07ec98)
 
-Mean Absolute Error in Ahmadinejad,Rouhani,Raeesi presidency
+⚪ Fit  perceptron algorithm on the Boston dataset
 
-|              |     MAE                |
-| :--------:   |     :----------------: |
-| Ahmadinejad  |    7048.379089919374   |
-| :--------:   |     :----------------: | 
-| Rouhani      |    64561.780882084444  |
-| :--------:   |     :----------------: | 
-|Raeisi        |   81062.60643927503    |
+ Feature:Room & Age   Target: Price
+
+ ![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/639cd233-a565-4700-b84c-97e5db6902f5)
 
 
-
-
- 
  
