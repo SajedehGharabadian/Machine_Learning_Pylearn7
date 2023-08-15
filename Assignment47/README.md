@@ -1,25 +1,25 @@
- **Assignment46**
+ **Assignment47**
 
-⚪ Fit Perceptron on the employee's salary dataset
+⚪ Fit Perceptron on the surgical dataset
 
-Dataset: Make a linear dataset using scikit-learn library 
+Activation Function: Relu  Loss:MAE
 
-![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/579ae16b-5e7a-4ac5-b460-8b0b1b403506)
+![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/b7befb54-7505-4931-8503-9879e0aa746a)
 
 
-⚪ Abalone
+Confiusion Matrix:
 
-Fit  perceptron algorithm on the abalone dataset
+![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/56145386-5205-4924-bbdc-3cdeba48360a)
 
-Feature:Length   Target: Diameter
 
-![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/e21ac4aa-9a10-468d-b242-6fb1fa07ec98)
 
-⚪ Fit  perceptron algorithm on the Boston dataset
+⚪ Weather Forecast
 
- Feature:Room & Age   Target: Price
+Activation Function: Tanh  Loss: MAE  Accuracy:r2_score
 
- ![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/639cd233-a565-4700-b84c-97e5db6902f5)
+![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/5dccaec9-0ba4-44b6-bc9e-92c5320a1268)
 
+
+![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/bd40642a-5294-4011-a7c2-8094362b4c6e)
 
  
