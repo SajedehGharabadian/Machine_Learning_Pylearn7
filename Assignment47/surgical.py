@@ -27,6 +27,13 @@ cm_display = metrics.ConfusionMatrixDisplay(confusion_matrix = confusion_matrix,
 plt.title('Confusion Matrix in test data')
 cm_display.plot()
 
+print('Percision my model:',model.percision(X_test,Y_test))
+print('Percision sklean model:',precision_score(Y_test,y_pred))
+
+print('Recall my model:',model.recall(X_test,Y_test))
+print('Recall sklean model:',recall_score(Y_test,y_pred))
+
+
 fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(12,8))
 
 ax1.plot(accuracy_train)
