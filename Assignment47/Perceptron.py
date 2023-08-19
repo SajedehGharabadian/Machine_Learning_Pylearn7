@@ -82,9 +82,27 @@ class Perceptron:
         Y_pred = np.where(Y_pred > 0.5,1,0)
         accuracy = np.sum(Y_pred == Y_test) / len(Y_test)
         return accuracy
-    
+
     def evaluate(self,X_test,Y_test):
         loss = self.calculate_loss(X_test,Y_test)
         accuracy = self.calculate_accuracy(X_test,Y_test)
 
         return loss,accuracy
+
+    def percision(self,X_test,Y_test):
+        Y_pred = self.predict(X_test,Y_test)
+        tn, fp, fn, tp = metrics.confusion_matrix(Y_test, Y_pred).ravel()
+
+
+        percision = tp/(tp+fp)
+
+        return percision
+    
+    def recall(self,X_test,Y_test):
+        Y_pred = self.predict(X_test,Y_test)
+        tn, fp, fn, tp = metrics.confusion_matrix(Y_test, Y_pred).ravel()
+
+
+        recall = tp/(tp+fn)
+
+        return recall
