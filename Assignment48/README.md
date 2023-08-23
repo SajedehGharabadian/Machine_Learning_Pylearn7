@@ -7,6 +7,7 @@
 | Train Dataset |    MLP      | 98.58%   | 0.059     |
 | Test Dataset  |    MLP      | 87.77%   | 0.13      |
 
+
  
 plot loss and accuracy for train & test data
 
