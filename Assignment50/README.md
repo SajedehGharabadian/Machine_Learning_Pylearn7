@@ -1,5 +1,6 @@
  **Assignment 50**
 
+
  ⚪ Weather Forecast
  
 ![image](https://github.com/SajedehGharabadian/Machine_Learning_Pylearn7/assets/76538787/f4c4658a-5588-4fb4-b595-f70043a04d35)
