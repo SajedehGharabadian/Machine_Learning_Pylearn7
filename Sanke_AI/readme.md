@@ -9,6 +9,10 @@ This game is written in python
 -----
 `pip insatll -r requirement.txt  `
 
+```
+a one-line code block
+```
+
 ## How to run
 -----
 1- Generate dataset with function_generate_dataset.py
