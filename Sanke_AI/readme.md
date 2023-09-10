@@ -13,4 +13,4 @@ pip insatll -r requirement.txt
 
 2- Train dataset with neural network.
 
-3- play game 
+3- Play game 
