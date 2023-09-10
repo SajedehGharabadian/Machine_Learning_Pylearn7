@@ -15,6 +15,6 @@ pip insatll -r requirement.txt
 -----
 1- Generate dataset with function_generate_dataset.py
 
-2- Train dataset with neural network
+2- Train dataset with neural network.
 
 3- play game 
