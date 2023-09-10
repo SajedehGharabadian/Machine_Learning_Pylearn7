@@ -7,7 +7,7 @@ This game is written in python
 
 ## How to install
 -----
-``pip insatll -r requirement.txt  ``
+`pip insatll -r requirement.txt  `
 
 ## How to run
 -----
