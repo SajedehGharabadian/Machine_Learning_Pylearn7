@@ -1,5 +1,5 @@
 # Snake
------
+
 ## Discription
 The project focuses on the artificial intelligence of the Snake game, can play game automatically.
 This game is written in python
