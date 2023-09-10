@@ -6,7 +6,7 @@ The project focuses on the artificial intelligence of the Snake game, can play g
 This game is written in python
 
 ## How to install
------
+---
 ```
 pip insatll -r requirement.txt
 ```
