@@ -7,10 +7,8 @@ This game is written in python
 
 ## How to install
 -----
-`pip insatll -r requirement.txt  `
-
 ```
-a one-line code block
+pip insatll -r requirement.txt
 ```
 
 ## How to run
